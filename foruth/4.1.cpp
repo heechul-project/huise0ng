@@ -1,3 +1,4 @@
+//채틀린 현상
 #include <avr/wdt.h>
 
 uint32_t count_push = 0;
